@@ -1,3 +1,5 @@
 -wpu untuk membuat konten 2x seminggu
 - membuat platform untuk pengelolaan video materi
 -membuat forum diskusi
+-membuat layanan chat online
+-fitur download ebook
