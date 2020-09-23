@@ -6,3 +6,4 @@ RENCANA KONTEN WEB E-LEARNING
     +membuat ecommerce
     +membuat company profile
   -Membuat video materi Framework Express
+  -Menambahkan FITUR REDIST
