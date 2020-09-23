@@ -2,6 +2,7 @@ RENCANA KONTEN WEB E-LEARNING
   -Membuat video materi dasar html dan css
   -Membuat video materi javascript lanjutan untuk pengantar React Js
   -Membuat video materi React Js dan Node Js
+  -Membuat fungsi struktur data dasar
     +membuat ecommerce
     +membuat company profile
   -Membuat video materi Framework Express
